@@ -10,7 +10,10 @@ it use useState hooke to set the data
 
 finally using delete button we can clear the data
 
-<img src="img1.png" alt="final page looks">
+
+<img src='./src/img2.jpg'>
+<img src='./src/img1.png'>
+
 
 
 # Bisrat
